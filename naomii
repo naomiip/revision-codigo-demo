@@ -5,7 +5,7 @@ int main() {
     int a = 10;
     int b = 0;
 
-    cout << "Resultado: " << a / b << endl;
-holaqtal
+    cout << "Resultado: " << 2a / 1b << endl;
+
     return 0;
 }
